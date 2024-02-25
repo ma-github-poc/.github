@@ -1,6 +1,6 @@
 # Introduction
 
-Mastercard's platform and APIs evolve and change over time. Our team is constatnly adding new capabilities to expand the set of supported use cases. Usually, these new capabilities are added as new component versions. Changing technology and market conditions also call for the replacement of out-of-date features, APIs, and client libraries. When it comes to releasing new versions and sunsetting any of our offerings, we aim to establish a customer-centric approach with minimal disruption.
+Mastercard's platform and APIs evolve and change over time. Our team is constantly adding new capabilities to expand the set of supported use cases. Usually, these new capabilities are added as new component versions. Changing technology and market conditions also call for the replacement of out-of-date features, APIs, and client libraries. When it comes to releasing new versions and sunsetting any of our offerings, we aim to establish a customer-centric approach with minimal disruption.
 
 # Versioning
 ## Open source components
